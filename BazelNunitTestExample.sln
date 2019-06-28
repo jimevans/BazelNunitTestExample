@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazelNunitTestExample", "BazelNunitTestExample\BazelNunitTestExample.csproj", "{7546EC24-A910-4A24-BBE2-293C2420A6DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazelNunitTestExample.Tests", "BazelNunitTestExample.Tests\BazelNunitTestExample.Tests.csproj", "{5815A61D-43A3-416E-A9FB-20999CEB11C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7546EC24-A910-4A24-BBE2-293C2420A6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7546EC24-A910-4A24-BBE2-293C2420A6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7546EC24-A910-4A24-BBE2-293C2420A6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7546EC24-A910-4A24-BBE2-293C2420A6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5815A61D-43A3-416E-A9FB-20999CEB11C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5815A61D-43A3-416E-A9FB-20999CEB11C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5815A61D-43A3-416E-A9FB-20999CEB11C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5815A61D-43A3-416E-A9FB-20999CEB11C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A30AF8-355E-4F53-817F-9A4CC1865DC0}
+	EndGlobalSection
+EndGlobal
